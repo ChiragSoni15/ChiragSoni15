@@ -1,1 +1,1 @@
-[![chiragsoni15's AI token usage](https://whoburnedmore.com/api/embeds/chiragsoni15?style=heatmap&theme=dark&accent=ember&period=all)](https://whoburnedmore.com/u/chiragsoni15?utm_source=github&utm_medium=profile&utm_campaign=usage-card)
+[![chiragsoni15's AI token usage](https://whoburnedmore.com/api/embeds/chiragsoni15?style=heatmap&theme=dark&accent=ember&period=year)](https://whoburnedmore.com/u/chiragsoni15?utm_source=github&utm_medium=profile&utm_campaign=usage-card)
